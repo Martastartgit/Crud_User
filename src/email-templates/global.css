@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    background-color: cadetblue;
+}
+.wrap {
+    font-size: medium;
+    background-color: blanchedalmond;
+}
+.footer {
+    font-size: medium;
+    background-color: cadetblue;
+}
